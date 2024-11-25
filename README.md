@@ -1,2 +1,2 @@
 # PBI_FM
- My PowerBI finctions
+Mes fonctions récurrentes dans PowerBI
